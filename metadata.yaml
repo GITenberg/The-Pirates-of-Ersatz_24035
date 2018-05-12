@@ -32,6 +32,8 @@ description: "The Pirates of Zan is a science fiction novel by Murray Leinster, 
   \ was published in 1972. Bart Books published a stand-alone American paperback edition\
   \ in 1989. and Baen Books included Pirates in a Leinster omnibus, A Logic Named\
   \ Joe, in 2005.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24035#The-Pirates-of-Ersatz
 gutenberg_bookshelf:
 - Science Fiction
 - Pirates, Buccaneers, Corsairs, etc.
