@@ -1,0 +1,56 @@
+_repo: The-Pirates-of-Ersatz_24035
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Freas, Kelly
+    alias: Freas, Frank Kelly
+    birthdate: 1922
+    deathdate: 2005
+    gutenberg_agent_id: '8302'
+    url: http://www.gutenberg.org/2009/agents/8302
+    wikipedia: http://en.wikipedia.org/wiki/Frank_Kelly_Freas
+covers:
+- cover_type: archival
+  image_path: 24035-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Leinster, Murray
+    aliases:
+    - Jenkins, William Fitzgerald
+    - Jenkins, Will
+    birthdate: 1896
+    deathdate: 1975
+    gutenberg_agent_id: '7321'
+    url: http://www.gutenberg.org/2009/agents/7321
+    wikipedia: http://en.wikipedia.org/wiki/Murray_Leinster
+description: "The Pirates of Zan is a science fiction novel by Murray Leinster, originally\
+  \ serialized in Astounding Science Fiction in 1959 as \"The Pirates of Ersatz\"\
+  . It was nominated for the 1960 Hugo Award for Best Novel. It first appeared in\
+  \ book form in 1959 as one component of an Ace Double, bound with Leinster's The\
+  \ Mutant Weapon; this edition was reissued in 1971. A German translation was issued\
+  \ in hardcover in 1962, an Italian translation appeared in 1968, and a Dutch translation\
+  \ was published in 1972. Bart Books published a stand-alone American paperback edition\
+  \ in 1989. and Baen Books included Pirates in a Leinster omnibus, A Logic Named\
+  \ Joe, in 2005.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Science Fiction
+- Pirates, Buccaneers, Corsairs, etc.
+gutenberg_issued: '2007-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24035'
+  wikidata: Q18393643
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Engineers -- Fiction'
+- !lcsh 'Pirates -- Fiction'
+- !lcc 'PS'
+title: The Pirates of Ersatz
+url: http://www.gutenberg.org/ebooks/24035
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Pirates_of_Zan
+- https://id.wikipedia.org/wiki/The_Pirates_of_Zan
